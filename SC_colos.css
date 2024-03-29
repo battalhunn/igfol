@@ -1,0 +1,17 @@
+:root {
+    --color-2: #f8f8f8; /* Şerit arkaplan rengi */
+    --color-3: #000; /* Şerit metin rengi */
+    --color-4: #000; /* Başlık ve içerik metin rengi */
+    --color-5: #e7e7e7; /* Şerit kenarlık rengi */
+    --color-6: #000; /* İkincil metin rengi */
+    --color-8: #808080; /* Aktif sekme arkaplan rengi */
+    --color-9: #808080; /* Kart arkaplan ve kenarlık rengi */
+    --instagram: #000; /* İnstagram varsayılan renk */
+    --facebook: #000; /* Facebook varsayılan renk */
+    --twitter: #000; /* Twitter varsayılan renk */
+    --linkedin: #000; /* Linkedin varsayılan renk */
+    --instagram-hover: #808080; /* İnstagram hover rengi */
+    --facebook-hover: #808080; /* Facebook hover rengi */
+    --twitter-hover: #808080; /* Twitter hover rengi */
+    --linkedin-hover: #808080; /* Linkedin hover rengi */
+}
